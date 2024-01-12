@@ -3,3 +3,5 @@ Git과 github
 
 test2.txt 파일을 생성하고 내용을 기입한 후
 해당 파일을 github에 업로드
+
+github에서 수정됨
